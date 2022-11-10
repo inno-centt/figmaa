@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lora',serif;
+    font-family: 'Roboto Flex',sans-serif;
+}
+/* 
+.body{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+} */
+
+
+.header{
+    margin: 0px;
+    padding: 20px 50px 20px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: none;
+    position: fixed;
+    width: 100%;
+    backdrop-filter: blur(20px);
+}
+.mugu{
+    padding: 0px 90px;
+}
+.nav{
+    color: #848484;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    padding: 0px 0px 0px 200px;
+    list-style: none;
+    gap: 2rem;
+    align-items: center;
+}
+
+ul li a{
+    text-decoration: none;
+}
+ul li a:hover{
+    color: #848484;
+}
+
+li button{
+    width: 200px;
+    height: 50px;
+    background-color: blue;
+    border: 2px solid blue;
+    border-radius: 5px;
+}
+li button:hover{
+    background-color: #848484;
+    color: #fff;
+    border: #848484;
+}
+
+li button a{
+    color: white;
+    font-size: 18px;
+}
+
+.cool{
+    padding-top: 10%;
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+
+.bro{
+    display: flex;
+    justify-content: center;
+}
+.about{
+    display: flex;
+    justify-content: center;
+}
+p{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+.boss{
+    margin: auto;
+    padding: auto;
+    display: flex;
+    justify-content: center;
+}
+/* .sub{
+    display: flex;
+    justify-content: space-between;
+} */
+.brazzers{
+    display: flex;
+    justify-content: space-between;
+}
+.circle{
+    text-align: center;
+    padding-bottom: 0px;
+    margin-bottom: 40px;
+}
+.amu{
+    text-align: right;
+}
+
+.main{
+    max-width: 1080px;
+    margin: auto;
+    padding: 0px 25px;
+}
+.pics{
+    flex-basis: 33%;
+    min-width: 250px;
+    margin-bottom: 30px;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+.fuck{
+    margin-top: 20px;
+    display: flex;
+    gap: 2.5em;
+}
+.see-more{
+    text-align: center;
+    font-size: 20px;
+}
+.organisers{
+    text-align: center;
+    font-size: 20px;
+}
+.damn{
+    max-width: 1080px;
+    margin: auto;
+    padding: 0px 25px;
+    justify-content: center;
+    display: grid;
+}
+.damn1{
+    flex-basis: 33%;
+    min-width: 250px;
+    margin-bottom: 30px;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    justify-content: center;
+}
+.damn2{
+    padding: 0px 20px 0px 20px;
+    margin-top: 33px;
+    display: flex;
+    justify-content: center;
+}
+.nurse{
+    justify-content: center;
+    display: flex;
+    width: 100%;
+}
+.over{
+    justify-content: center;
+    display: flex;
+    width: 100%;
+}
+.closure{
+    justify-content: center;
+    display: flex;
+    width: 100%;
+}
